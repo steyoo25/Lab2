@@ -1,5 +1,5 @@
 body{
-    background-image:linear-gradient(red,blue);
+    background-image:linear-gradient(yellow,blue);
     color:white;
     margin:50px;
 }
@@ -11,7 +11,7 @@ p{
 
 h1{
     text-align:center;
-    color:aqua;
+    color:blue;
 }
 
 .intro{
