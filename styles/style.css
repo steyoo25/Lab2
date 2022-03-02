@@ -1,9 +1,7 @@
-html{
-    background-color:black;
-}
-
 body{
+    background-image:linear-gradient(red,blue);
     color:white;
+    margin:50px;
 }
 
 p{
@@ -33,4 +31,12 @@ li{
 h2{
     text-align:center;
     color:darkred;
+}
+
+a{
+    color:yellow;
+}
+
+h2{
+    color:orange;
 }
