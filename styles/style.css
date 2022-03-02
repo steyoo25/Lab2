@@ -1,0 +1,36 @@
+html{
+    background-color:black;
+}
+
+body{
+    color:white;
+}
+
+p{
+    font-family:'Hubballi', sans-serif;
+    font-size:1.3em;
+}
+
+h1{
+    text-align:center;
+    color:aqua;
+}
+
+.intro{
+    background-color:darkgreen;
+    color:white;
+    border-radius: 4px;
+}
+
+#welcomemessage{
+    font-size:1.4em;
+}
+
+li{
+    color:aquamarine;
+}
+
+h2{
+    text-align:center;
+    color:darkred;
+}

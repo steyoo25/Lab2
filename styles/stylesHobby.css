@@ -1,0 +1,38 @@
+html{
+    background-color:blueviolet;
+    background-image:linear-gradient(red,green)
+}
+
+body{
+    background-color:black;
+    color:coral;
+    margin: 40px 30px;
+    border: 5px solid white;
+}
+
+li{
+    color:azure;
+    letter-spacing:3px;
+    line-height:2;
+    font-family: 'Lobster', cursive;
+}
+
+#goback{
+    color:yellowgreen;
+    margin-left:30px;
+}
+
+.bigtext{
+    text-align:center;
+    margin:5px;
+}
+
+h3{
+    color:aqua;
+    margin:20px 30px;
+    text-decoration: underline;
+}
+
+img{
+    display:block;
+}
